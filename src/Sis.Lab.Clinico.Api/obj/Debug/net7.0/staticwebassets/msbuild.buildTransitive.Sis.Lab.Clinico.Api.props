@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sis.Lab.Clinico.Api.props" />
+</Project>

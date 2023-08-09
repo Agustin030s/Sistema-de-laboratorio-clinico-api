@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9A+gjxeL22E3SpPscTHl+7JqsGA/LBD2GR8iQQwO3HA=",
+  "Source": "Sis.Lab.Clinico.Api",
+  "BasePath": "_content/Sis.Lab.Clinico.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

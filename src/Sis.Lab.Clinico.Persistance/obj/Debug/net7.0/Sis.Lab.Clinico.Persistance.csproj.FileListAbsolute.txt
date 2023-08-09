@@ -1,0 +1,17 @@
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\bin\Debug\net7.0\Sis.Lab.Clinico.Persistance.deps.json
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\bin\Debug\net7.0\Sis.Lab.Clinico.Persistance.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\bin\Debug\net7.0\Sis.Lab.Clinico.Persistance.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\bin\Debug\net7.0\Sis.Lab.Clinico.Application.Interface.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\bin\Debug\net7.0\Sis.Lab.Clinico.Domain.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\bin\Debug\net7.0\Sis.Lab.Clinico.Application.Interface.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\bin\Debug\net7.0\Sis.Lab.Clinico.Domain.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\obj\Debug\net7.0\Sis.Lab.Clinico.Persistance.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\obj\Debug\net7.0\Sis.Lab.Clinico.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\obj\Debug\net7.0\Sis.Lab.Clinico.Persistance.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\obj\Debug\net7.0\Sis.Lab.Clinico.Persistance.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\obj\Debug\net7.0\Sis.Lab.Clinico.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\obj\Debug\net7.0\Sis.Lab.Clinico.Persistance.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\obj\Debug\net7.0\Sis.Lab.Clinico.Persistance.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\obj\Debug\net7.0\refint\Sis.Lab.Clinico.Persistance.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\obj\Debug\net7.0\Sis.Lab.Clinico.Persistance.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Persistance\obj\Debug\net7.0\ref\Sis.Lab.Clinico.Persistance.dll

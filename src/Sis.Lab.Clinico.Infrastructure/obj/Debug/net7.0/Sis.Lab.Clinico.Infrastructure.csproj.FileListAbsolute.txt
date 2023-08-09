@@ -1,0 +1,17 @@
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\bin\Debug\net7.0\Sis.Lab.Clinico.Infrastructure.deps.json
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\bin\Debug\net7.0\Sis.Lab.Clinico.Infrastructure.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\bin\Debug\net7.0\Sis.Lab.Clinico.Infrastructure.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\bin\Debug\net7.0\Sis.Lab.Clinico.Application.Interface.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\bin\Debug\net7.0\Sis.Lab.Clinico.Domain.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\bin\Debug\net7.0\Sis.Lab.Clinico.Application.Interface.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\bin\Debug\net7.0\Sis.Lab.Clinico.Domain.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\obj\Debug\net7.0\Sis.Lab.Clinico.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\obj\Debug\net7.0\Sis.Lab.Clinico.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\obj\Debug\net7.0\Sis.Lab.Clinico.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\obj\Debug\net7.0\Sis.Lab.Clinico.Infrastructure.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\obj\Debug\net7.0\Sis.Lab.Clinico.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\obj\Debug\net7.0\Sis.Lab.Clinico.Infrastructure.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\obj\Debug\net7.0\Sis.Lab.Clinico.Infrastructure.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\obj\Debug\net7.0\refint\Sis.Lab.Clinico.Infrastructure.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\obj\Debug\net7.0\Sis.Lab.Clinico.Infrastructure.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Infrastructure\obj\Debug\net7.0\ref\Sis.Lab.Clinico.Infrastructure.dll

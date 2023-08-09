@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sis.Lab.Clinico.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Sis.Lab.Clinico.Application.Interface": "1.0.0"
+        },
+        "runtime": {
+          "Sis.Lab.Clinico.Infrastructure.dll": {}
+        }
+      },
+      "Sis.Lab.Clinico.Application.Interface/1.0.0": {
+        "dependencies": {
+          "Sis.Lab.Clinico.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Sis.Lab.Clinico.Application.Interface.dll": {}
+        }
+      },
+      "Sis.Lab.Clinico.Domain/1.0.0": {
+        "runtime": {
+          "Sis.Lab.Clinico.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sis.Lab.Clinico.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sis.Lab.Clinico.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sis.Lab.Clinico.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

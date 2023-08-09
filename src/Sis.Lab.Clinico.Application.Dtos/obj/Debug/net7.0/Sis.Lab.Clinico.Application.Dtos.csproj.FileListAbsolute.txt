@@ -1,0 +1,12 @@
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\bin\Debug\net7.0\Sis.Lab.Clinico.Application.Dtos.deps.json
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\bin\Debug\net7.0\Sis.Lab.Clinico.Application.Dtos.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\bin\Debug\net7.0\Sis.Lab.Clinico.Application.Dtos.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\obj\Debug\net7.0\Sis.Lab.Clinico.Application.Dtos.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\obj\Debug\net7.0\Sis.Lab.Clinico.Application.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\obj\Debug\net7.0\Sis.Lab.Clinico.Application.Dtos.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\obj\Debug\net7.0\Sis.Lab.Clinico.Application.Dtos.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\obj\Debug\net7.0\Sis.Lab.Clinico.Application.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\obj\Debug\net7.0\Sis.Lab.Clinico.Application.Dtos.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\obj\Debug\net7.0\refint\Sis.Lab.Clinico.Application.Dtos.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\obj\Debug\net7.0\Sis.Lab.Clinico.Application.Dtos.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Application.Dtos\obj\Debug\net7.0\ref\Sis.Lab.Clinico.Application.Dtos.dll

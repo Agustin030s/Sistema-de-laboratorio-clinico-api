@@ -1,0 +1,12 @@
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\bin\Debug\net7.0\Sis.Lab.Clinico.Domain.deps.json
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\bin\Debug\net7.0\Sis.Lab.Clinico.Domain.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\bin\Debug\net7.0\Sis.Lab.Clinico.Domain.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\obj\Debug\net7.0\Sis.Lab.Clinico.Domain.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\obj\Debug\net7.0\Sis.Lab.Clinico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\obj\Debug\net7.0\Sis.Lab.Clinico.Domain.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\obj\Debug\net7.0\Sis.Lab.Clinico.Domain.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\obj\Debug\net7.0\Sis.Lab.Clinico.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\obj\Debug\net7.0\Sis.Lab.Clinico.Domain.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\obj\Debug\net7.0\refint\Sis.Lab.Clinico.Domain.dll
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\obj\Debug\net7.0\Sis.Lab.Clinico.Domain.pdb
+C:\Users\sebas\OneDrive\Proyectos\Sis.Lab.Clinico\src\Sis.Lab.Clinico.Domain\obj\Debug\net7.0\ref\Sis.Lab.Clinico.Domain.dll
