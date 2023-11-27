@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Sis.Lab.Clinico.Application.Dtos.Analysis.Response;
 using Sis.Lab.Clinico.Application.UseCase.UseCases.Analysis.Commands.CreateCommand;
+using Sis.Lab.Clinico.Application.UseCase.UseCases.Analysis.Commands.UpdateCommand;
 using Sis.Lab.Clinico.Domain.Entities;
 
 namespace Sis.Lab.Clinico.Application.UseCase.Mappings
@@ -17,6 +18,7 @@ namespace Sis.Lab.Clinico.Application.UseCase.Mappings
                 .ReverseMap();
 
             CreateMap<CreateAnalysisCommand, Analysis>();
+            CreateMap<UpdateAnalysisCommand, Analysis>();
         }
     }
 }

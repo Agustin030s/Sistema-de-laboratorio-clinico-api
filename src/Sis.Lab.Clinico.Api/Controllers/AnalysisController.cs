@@ -1,6 +1,8 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Sis.Lab.Clinico.Application.UseCase.UseCases.Analysis.Commands.CreateCommand;
+using Sis.Lab.Clinico.Application.UseCase.UseCases.Analysis.Commands.UpdateCommand;
+using Sis.Lab.Clinico.Application.UseCase.UseCases.Analysis.DeleteCommand;
 using Sis.Lab.Clinico.Application.UseCase.UseCases.Analysis.Queries.GetAllQuery;
 using Sis.Lab.Clinico.Application.UseCase.UseCases.Analysis.Queries.GetByIdQuery;
 
@@ -37,6 +39,22 @@ namespace Sis.Lab.Clinico.Api.Controllers
         public async Task<IActionResult> RegisterAnalysis([FromBody] CreateAnalysisCommand command)
         {
             var response = await _mediator.Send(command);
+
+            return Ok(response);
+        }
+
+        [HttpPut("Update")]
+        public async Task<IActionResult> UpdateAnalysis([FromBody] UpdateAnalysisCommand command)
+        {
+            var response = await _mediator.Send(command);
+
+            return Ok(response);
+        }
+
+        [HttpDelete("Delete/{analysisId:int}")]
+        public async Task<IActionResult> DeleteAnalysis(int analysisId)
+        {
+            var response = await _mediator.Send(new DeleteAnalysisCommand() { AnalysisId = analysisId });
 
             return Ok(response);
         }

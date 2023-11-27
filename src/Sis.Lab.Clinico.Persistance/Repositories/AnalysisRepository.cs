@@ -55,5 +55,36 @@ namespace Sis.Lab.Clinico.Persistance.Repositories
 
             return recordsAffected > 0;
         }
+
+        public async Task<bool> AnalysisUpdate(Analysis analysis)
+        {
+            using IDbConnection connection = _context.CreateConnection;
+
+            var query = "uspAnalysisUpdate";
+
+            DynamicParameters parameters = new DynamicParameters();
+            parameters.Add("AnalysisId", analysis.AnalysisId);
+            parameters.Add("Name", analysis.Name);
+
+            var recordsAffected = await connection
+                .ExecuteAsync(query, param: parameters, commandType: CommandType.StoredProcedure);
+
+            return recordsAffected > 0;
+
+        }
+
+        public async Task<bool> AnalysisDelete(int id)
+        {
+            using IDbConnection connection = _context.CreateConnection;
+
+            var query = "uspAnalysisDelete";
+            DynamicParameters parameters = new DynamicParameters();
+            parameters.Add("AnalysisId", id);
+
+            var recordsAffected = await connection
+                .ExecuteAsync(query, param: parameters, commandType: CommandType.StoredProcedure);
+
+            return recordsAffected > 0;
+        }
     }
 }

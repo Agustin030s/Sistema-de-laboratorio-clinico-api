@@ -7,5 +7,7 @@ namespace Sis.Lab.Clinico.Application.Interface
         Task<IEnumerable<Analysis>> ListAnalysis();
         Task<Analysis> AnalysisById(int id);
         Task<bool> AnalysisRegister (Analysis analysis);
+        Task<bool> AnalysisUpdate (Analysis analysis);
+        Task<bool> AnalysisDelete (int id);
     }
 }
