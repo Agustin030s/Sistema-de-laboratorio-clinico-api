@@ -1,5 +1,6 @@
 using Sis.Lab.Clinico.Persistance.Extensions;
 using Sis.Lab.Clinico.Application.UseCase.Extensions;
+using Sis.Lab.Clinico.Api.Extensions.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,6 +26,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.AddMiddleware();
 
 app.MapControllers();
 
