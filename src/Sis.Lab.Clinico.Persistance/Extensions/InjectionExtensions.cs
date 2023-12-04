@@ -2,11 +2,6 @@
 using Sis.Lab.Clinico.Application.Interface;
 using Sis.Lab.Clinico.Persistance.Context;
 using Sis.Lab.Clinico.Persistance.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Sis.Lab.Clinico.Persistance.Extensions
 {
